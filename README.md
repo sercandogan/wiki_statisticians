@@ -1,4 +1,4 @@
-#wiki_statisticians
+# wiki_statisticians
 ***
 List of statisticians which is fetched from Wikipedia
 
@@ -6,7 +6,7 @@ source: [https://www.wikiwand.com/en/List_of_statisticians](https://www.wikiwand
 
 
 ## Variables
-```r
+```
 Observations: 617
 Variables: 245
 $ name                                                            <chr> "Khattree, R...
