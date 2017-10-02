@@ -1,6 +1,8 @@
 # wiki_statisticians
-***
 List of statisticians which is fetched from Wikipedia
+
+
+This list of statisticians lists people who have made notable contributions to the theories or application of statistics, or to the related fields of probability or machine learning. Also included are actuaries and demographers.
 
 source: [https://www.wikiwand.com/en/List_of_statisticians](https://www.wikiwand.com/en/List_of_statisticians)
 
